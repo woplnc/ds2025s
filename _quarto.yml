@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "ds2025s"
+  navbar:
+    left:
+      - href: project1.ipynb
+        text: project1
+      - href: project2.ipynb
+        text: project2
+      - href: Project.ipynb
+        text: Project
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+
