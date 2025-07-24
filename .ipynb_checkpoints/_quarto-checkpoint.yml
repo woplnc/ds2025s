@@ -7,11 +7,11 @@ website:
   navbar:
     left:
       - href: project1.ipynb
-        text: project1
+        text: Project1
       - href: project2.ipynb
-        text: project2
-      - href: Project.ipynb
-        text: Project
+        text: Project2
+      - href: report.ipynb
+        text: Report
 
 format:
   html:
